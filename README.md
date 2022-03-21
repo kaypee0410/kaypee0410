@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalpataru Sahoo
+- 👋 Hi, I’m Kalpataru
 - 👀 I’m interested in Data. Looking for a opportunity in Data Science field
 - 🌱 Associate Consultant at Capgemini India, 
 - 💞️ Skills: Python, Tableau, Excel, SQL, MachineLearning
