@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kalpataru
 - 👀 I’m interested in Data. Looking for a opportunity in Data Science field
 - 🌱 Associate Consultant at Capgemini India, 
-- 💞️ Skills: Python, Tableau, Excel, SQL, MachineLearning
+- 💞️ Skills: Python, Tableau, SQL, MachineLearning
 - 📫 Contact me: 8342954536
 
 <!---
