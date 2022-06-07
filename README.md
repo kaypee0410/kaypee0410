@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalpataru
 - 👀 I’m interested in Data. Looking for a opportunity in Data Science field
--Takes a keen interest in Cricket and VideoGames when not training a model.
+- ✨Takes a keen interest in Cricket and VideoGames when not training a model.
 - 💞️ Skills: Python, Tableau, SQL, MachineLearning
 - 📫 Contact me: 8342954536
 
